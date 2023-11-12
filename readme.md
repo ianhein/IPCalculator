@@ -15,7 +15,12 @@ python3 IPCalculator.py
 ```
 
 ## Ejemplo para Clase B
+```bash
+Ingrese la clase de dirección IP (A, B, C): c
+Ingrese el número de subredes necesarias: 10
+Ingrese el número de hosts por subred: 100
 
+```
 ```bash
 Para la dirección IP de Clase B:
 Número de bits para subredes: 4
@@ -24,7 +29,11 @@ Máscara de subred en formato binario: 11111111.11111111.11110000.00000000
 ```
 
 ## Ejemplo para Clase C
-
+```bash
+Ingrese la clase de dirección IP (A, B, C): c
+Ingrese el número de subredes necesarias: 4
+Ingrese el número de hosts por subred: 30
+```
 ```bash
 Para la dirección IP de Clase C:
 Número de bits para subredes: 2
