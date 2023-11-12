@@ -16,7 +16,7 @@ python3 IPCalculator.py
 
 ## Ejemplo para Clase B
 ```bash
-Ingrese la clase de dirección IP (A, B, C): c
+Ingrese la clase de dirección IP (A, B, C): b
 Ingrese el número de subredes necesarias: 10
 Ingrese el número de hosts por subred: 100
 
